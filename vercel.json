@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/api/$1" },
+    { "source": "/F1.UltimateGuideToLandStrategies.pdf", "destination": "/api/guide-download" }
+  ]
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <rect x="40" y="80" width="160" height="120" rx="8" fill="#EAEBDC" stroke="#D96B43" stroke-width="1.5"/>
+  <rect x="55" y="95" width="130" height="90" rx="4" fill="#F4F5EA" stroke="#D5D7C2" stroke-width="1"/>
+  <path d="M85 140 C85 115 155 115 155 140" fill="#D96B43" opacity="0.9"/>
+  <path d="M90 140 C90 120 150 120 150 140" fill="#E88965" opacity="0.7"/>
+  <path d="M100 140 L100 175" stroke="#D96B43" stroke-width="3" stroke-linecap="round"/>
+  <path d="M120 140 L120 175" stroke="#D96B43" stroke-width="3" stroke-linecap="round"/>
+  <path d="M140 140 L140 175" stroke="#D96B43" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="100" cy="140" rx="14" ry="8" fill="#D96B43"/>
+  <ellipse cx="120" cy="138" rx="16" ry="9" fill="#E88965"/>
+  <ellipse cx="140" cy="140" rx="14" ry="8" fill="#D96B43"/>
+  <path d="M70 180 L170 180" stroke="#D5D7C2" stroke-width="0.5" stroke-dasharray="2,3"/>
+  <text x="120" y="195" text-anchor="middle" font-family="Figtree, sans-serif" font-size="9" font-weight="600" fill="#6B7068">MAITAKE — COMMERCIAL GRADE</text>
+  <circle cx="120" cy="35" r="20" fill="#D96B4315" stroke="#D96B43" stroke-width="0.8"/>
+  <path d="M120,48 L120,30" stroke="#D96B43" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M108,34 C108,22 132,22 132,34" fill="#D96B43" opacity="0.85"/>
+</svg>

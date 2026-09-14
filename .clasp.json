@@ -1,0 +1,17 @@
+{
+  "scriptId": "1Ki7P9vJatJgYTCwrn4bLhGCBOMwPl1B4MX9xLg4fIgnbl0AoPDpHtetO",
+  "rootDir": "google-script",
+  "parentId": "1mbKTueUw5WhJJzV6ZhzljMUkVE76FV85HwBsZh0aFfQ",
+  "scriptExtensions": [
+    ".js",
+    ".gs"
+  ],
+  "htmlExtensions": [
+    ".html"
+  ],
+  "jsonExtensions": [
+    ".json"
+  ],
+  "filePushOrder": [],
+  "skipSubdirectories": false
+}

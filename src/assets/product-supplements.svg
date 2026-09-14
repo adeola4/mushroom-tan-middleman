@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <rect x="65" y="50" width="70" height="110" rx="10" fill="#F4F5EA" stroke="#B8957A" stroke-width="1.5"/>
+  <rect x="72" y="60" width="56" height="40" rx="4" fill="#B8957A" opacity="0.08"/>
+  <text x="100" y="77" text-anchor="middle" font-family="Figtree, sans-serif" font-size="6" font-weight="700" fill="#B8957A" letter-spacing="0.5">EXTRACT</text>
+  <text x="100" y="88" text-anchor="middle" font-family="Figtree, sans-serif" font-size="5" font-weight="500" fill="#B8957A" opacity="0.5">10:1</text>
+  <rect x="72" y="108" width="56" height="3" rx="1" fill="#B8957A" opacity="0.12"/>
+  <rect x="72" y="115" width="40" height="3" rx="1" fill="#B8957A" opacity="0.08"/>
+  <rect x="72" y="122" width="48" height="3" rx="1" fill="#B8957A" opacity="0.08"/>
+  <rect x="72" y="129" width="35" height="3" rx="1" fill="#B8957A" opacity="0.08"/>
+  <rect x="72" y="136" width="44" height="3" rx="1" fill="#B8957A" opacity="0.08"/>
+  <path d="M82 50 L82 35" stroke="#B8957A" stroke-width="2" stroke-linecap="round"/>
+  <path d="M118 50 L118 35" stroke="#B8957A" stroke-width="2" stroke-linecap="round"/>
+  <rect x="82" y="28" width="36" height="10" rx="4" fill="none" stroke="#B8957A" stroke-width="1"/>
+  <circle cx="100" cy="33" r="4" fill="#B8957A" opacity="0.2"/>
+  <circle cx="100" cy="33" r="1.5" fill="#B8957A"/>
+  <path d="M100 33 L100 24" stroke="#B8957A" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="100" cy="22" r="2" fill="#B8957A" opacity="0.3"/>
+</svg>
